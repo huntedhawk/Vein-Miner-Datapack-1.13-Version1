@@ -1,5 +1,5 @@
 # Vein-Miner-Datapack-1.13-Version1
-A Datapack for Minecraft Java Edition 1.13 - bringing the Vein Miner Mod to Vanilla Minecraft
+A Datapack for Minecraft Java Edition 1.13 - trying to copy the Vein Miner Mod in Vanilla Minecraft
 
 This Veinminer works with Iron- Diamond Tools and shears. 
 Using these tools on Blocks will mine all identical blocks that are orthogonally connected around the one mined, up to a distance of 4 Blocks.
