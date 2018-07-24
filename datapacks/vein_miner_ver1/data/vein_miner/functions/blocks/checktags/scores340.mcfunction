@@ -1,0 +1,14 @@
+execute if entity @s[scores={vm_material=321}] run function vein_miner:blocks/fences_gates/nether_brick_fence/checktags
+execute if entity @s[scores={vm_material=322}] run function vein_miner:blocks/fences_gates/cobblestone_wall/checktags
+execute if entity @s[scores={vm_material=323}] run function vein_miner:blocks/fences_gates/mossy_cobblestone_wall/checktags
+execute if entity @s[scores={vm_material=324}] run function vein_miner:blocks/fences_gates/oak_fence_gate/checktags
+execute if entity @s[scores={vm_material=325}] run function vein_miner:blocks/fences_gates/spruce_fence_gate/checktags
+execute if entity @s[scores={vm_material=326}] run function vein_miner:blocks/fences_gates/birch_fence_gate/checktags
+execute if entity @s[scores={vm_material=327}] run function vein_miner:blocks/fences_gates/jungle_fence_gate/checktags
+execute if entity @s[scores={vm_material=328}] run function vein_miner:blocks/fences_gates/acacia_fence_gate/checktags
+execute if entity @s[scores={vm_material=329}] run function vein_miner:blocks/fences_gates/dark_oak_fence_gate/checktags
+execute if entity @s[scores={vm_material=330}] run function vein_miner:blocks/randoms/bookshelf/checktags
+execute if entity @s[scores={vm_material=331}] run function vein_miner:blocks/randoms/bricks/checktags
+execute if entity @s[scores={vm_material=332}] run function vein_miner:blocks/randoms/cobweb/checktags
+execute if entity @s[scores={vm_material=333}] run function vein_miner:blocks/randoms/crafting_table/checktags
+execute if entity @s[scores={vm_material=334..340}] run function vein_miner:blocks/randoms/snow/checktags
