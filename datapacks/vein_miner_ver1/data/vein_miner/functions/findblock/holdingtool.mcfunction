@@ -1,0 +1,11 @@
+#if the player holds a tool, either iron-, diamond-tools or shears then the block the player's looking at is checked.
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:diamond_pickaxe"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/startblock
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:diamond_shovel"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/startblock
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:diamond_axe"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/startblock
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:iron_pickaxe"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/startblock
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:iron_shovel"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/startblock
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:iron_axe"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/startblock
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:shears"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/startblock
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:diamond_hoe"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/hoeblock
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:iron_hoe"}}] at @s positioned ~ ~1.62 ~ unless entity @e[type=area_effect_cloud,tag=vm_center,distance=..7,limit=1] run function vein_miner:findblock/hoeblock
+scoreboard players set #vm_find vm_pickus 0
