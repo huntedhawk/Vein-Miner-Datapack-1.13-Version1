@@ -1,0 +1,15 @@
+execute if block ~ ~ ~ minecraft:oak_fence run scoreboard players set @s vm_material 315
+execute if block ~ ~ ~ minecraft:spruce_fence run scoreboard players set @s vm_material 316
+execute if block ~ ~ ~ minecraft:birch_fence run scoreboard players set @s vm_material 317
+execute if block ~ ~ ~ minecraft:jungle_fence run scoreboard players set @s vm_material 318
+execute if block ~ ~ ~ minecraft:acacia_fence run scoreboard players set @s vm_material 319
+execute if block ~ ~ ~ minecraft:dark_oak_fence run scoreboard players set @s vm_material 320
+execute if block ~ ~ ~ minecraft:nether_brick_fence run scoreboard players set @s vm_material 321
+execute if block ~ ~ ~ minecraft:cobblestone_wall run scoreboard players set @s vm_material 322
+execute if block ~ ~ ~ minecraft:mossy_cobblestone_wall run scoreboard players set @s vm_material 323
+execute if block ~ ~ ~ minecraft:oak_fence_gate run scoreboard players set @s vm_material 324
+execute if block ~ ~ ~ minecraft:spruce_fence_gate run scoreboard players set @s vm_material 325
+execute if block ~ ~ ~ minecraft:birch_fence_gate run scoreboard players set @s vm_material 326
+execute if block ~ ~ ~ minecraft:jungle_fence_gate run scoreboard players set @s vm_material 327
+execute if block ~ ~ ~ minecraft:acacia_fence_gate run scoreboard players set @s vm_material 328
+execute if block ~ ~ ~ minecraft:dark_oak_fence_gate run scoreboard players set @s vm_material 329 

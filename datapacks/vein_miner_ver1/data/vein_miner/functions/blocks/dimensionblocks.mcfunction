@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:end_stone_bricks run scoreboard players set @s vm_material 291
+execute if block ~ ~ ~ minecraft:end_stone run scoreboard players set @s vm_material 292
+execute if block ~ ~ ~ minecraft:purpur_block run scoreboard players set @s vm_material 293
+execute if block ~ ~ ~ minecraft:purpur_pillar run scoreboard players set @s vm_material 294
+execute if block ~ ~ ~ minecraft:end_rod run scoreboard players set @s vm_material 295
+execute if block ~ ~ ~ minecraft:quartz_pillar run scoreboard players set @s vm_material 296
+execute if block ~ ~ ~ minecraft:quartz_block run scoreboard players set @s vm_material 297
+execute if block ~ ~ ~ minecraft:chiseled_quartz_block run scoreboard players set @s vm_material 298
+execute if block ~ ~ ~ minecraft:smooth_quartz run scoreboard players set @s vm_material 299
+execute if block ~ ~ ~ minecraft:obsidian run scoreboard players set @s vm_material 300
+execute if block ~ ~ ~ minecraft:netherrack run scoreboard players set @s vm_material 301
+execute if block ~ ~ ~ minecraft:soul_sand run scoreboard players set @s vm_material 302
+execute if block ~ ~ ~ minecraft:glowstone run scoreboard players set @s vm_material 303
+execute if block ~ ~ ~ minecraft:nether_bricks run scoreboard players set @s vm_material 304
+execute if block ~ ~ ~ minecraft:red_nether_bricks run scoreboard players set @s vm_material 305
+execute if block ~ ~ ~ minecraft:magma_block run scoreboard players set @s vm_material 306 

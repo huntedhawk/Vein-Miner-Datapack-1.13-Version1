@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:white_wool run scoreboard players set @s vm_material 165
+execute if block ~ ~ ~ minecraft:orange_wool run scoreboard players set @s vm_material 166
+execute if block ~ ~ ~ minecraft:magenta_wool run scoreboard players set @s vm_material 167
+execute if block ~ ~ ~ minecraft:light_blue_wool run scoreboard players set @s vm_material 168
+execute if block ~ ~ ~ minecraft:yellow_wool run scoreboard players set @s vm_material 169
+execute if block ~ ~ ~ minecraft:lime_wool run scoreboard players set @s vm_material 170
+execute if block ~ ~ ~ minecraft:pink_wool run scoreboard players set @s vm_material 171
+execute if block ~ ~ ~ minecraft:gray_wool run scoreboard players set @s vm_material 172
+execute if block ~ ~ ~ minecraft:light_gray_wool run scoreboard players set @s vm_material 173
+execute if block ~ ~ ~ minecraft:cyan_wool run scoreboard players set @s vm_material 174
+execute if block ~ ~ ~ minecraft:purple_wool run scoreboard players set @s vm_material 175
+execute if block ~ ~ ~ minecraft:blue_wool run scoreboard players set @s vm_material 176
+execute if block ~ ~ ~ minecraft:brown_wool run scoreboard players set @s vm_material 177
+execute if block ~ ~ ~ minecraft:green_wool run scoreboard players set @s vm_material 178
+execute if block ~ ~ ~ minecraft:red_wool run scoreboard players set @s vm_material 179
+execute if block ~ ~ ~ minecraft:black_wool run scoreboard players set @s vm_material 180 

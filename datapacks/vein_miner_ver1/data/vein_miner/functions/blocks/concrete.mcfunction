@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:white_concrete run scoreboard players set @s vm_material 197
+execute if block ~ ~ ~ minecraft:orange_concrete run scoreboard players set @s vm_material 198
+execute if block ~ ~ ~ minecraft:magenta_concrete run scoreboard players set @s vm_material 199
+execute if block ~ ~ ~ minecraft:light_blue_concrete run scoreboard players set @s vm_material 200
+execute if block ~ ~ ~ minecraft:yellow_concrete run scoreboard players set @s vm_material 201
+execute if block ~ ~ ~ minecraft:lime_concrete run scoreboard players set @s vm_material 202
+execute if block ~ ~ ~ minecraft:pink_concrete run scoreboard players set @s vm_material 203
+execute if block ~ ~ ~ minecraft:gray_concrete run scoreboard players set @s vm_material 204
+execute if block ~ ~ ~ minecraft:light_gray_concrete run scoreboard players set @s vm_material 205
+execute if block ~ ~ ~ minecraft:cyan_concrete run scoreboard players set @s vm_material 206
+execute if block ~ ~ ~ minecraft:purple_concrete run scoreboard players set @s vm_material 207
+execute if block ~ ~ ~ minecraft:blue_concrete run scoreboard players set @s vm_material 208
+execute if block ~ ~ ~ minecraft:brown_concrete run scoreboard players set @s vm_material 209
+execute if block ~ ~ ~ minecraft:green_concrete run scoreboard players set @s vm_material 210
+execute if block ~ ~ ~ minecraft:red_concrete run scoreboard players set @s vm_material 211
+execute if block ~ ~ ~ minecraft:black_concrete run scoreboard players set @s vm_material 212 
