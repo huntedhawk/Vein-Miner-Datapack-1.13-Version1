@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_stone_bricks",
+    "minecraft:end_stone",
+    "minecraft:purpur_block",
+	"minecraft:purpur_pillar",
+	"minecraft:end_rod",
+	"minecraft:quartz_block",
+	"minecraft:quartz_pillar",
+    "minecraft:chiseled_quartz_block",
+    "minecraft:smooth_quartz",
+	"minecraft:obsidian",
+	"minecraft:netherrack",
+    "minecraft:soul_sand",
+    "minecraft:glowstone",
+    "minecraft:nether_bricks",
+	"minecraft:red_nether_bricks",
+	"minecraft:magma_block"
+  ]
+}

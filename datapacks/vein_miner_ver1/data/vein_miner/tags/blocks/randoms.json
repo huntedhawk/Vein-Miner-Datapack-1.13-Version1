@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:bookshelf",
+	"minecraft:bricks",
+	"minecraft:carved_pumpkin",
+	"minecraft:jack_o_lantern",
+	"minecraft:brown_mushroom_block",
+	"minecraft:red_mushroom_block",
+	"minecraft:mushroom_stem",
+	"minecraft:note_block",
+	"minecraft:redstone_lamp",
+	"minecraft:ladder",
+	"minecraft:vine",
+	"minecraft:snow",
+	"minecraft:cake",
+	"minecraft:iron_bars",
+	"minecraft:cobweb",
+	"minecraft:tripwire",
+	"minecraft:slime_block",
+	"minecraft:tnt",
+	"minecraft:crafting_table",
+	"minecraft:daylight_detector",
+	"minecraft:observer",
+	"#minecraft:rails"
+  ]
+}

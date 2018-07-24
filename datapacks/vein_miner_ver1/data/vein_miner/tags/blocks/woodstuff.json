@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:planks",
+	"#minecraft:saplings",
+	"#minecraft:leaves",
+   	"#minecraft:buttons",
+	"minecraft:lever",
+	"#vein_miner:trapdoors",
+	"#minecraft:wooden_pressure_plates",
+	"minecraft:stone_pressure_plate",
+	"minecraft:heavy_weighted_pressure_plate",
+    "minecraft:light_weighted_pressure_plate"
+  ]
+}
