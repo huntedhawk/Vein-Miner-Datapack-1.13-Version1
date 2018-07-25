@@ -17,10 +17,14 @@ Iron Hoe
 
 Shears
 
+To make these tools usable as a veinminer tool, throw them onto an enchanting table and throw an ender eye onto the enchanting table too. This adds the "Vein Miner" Enchantment onto the tool. It's not really an enchantment though, just looks convincingly like it. Only tools with this "enchantment" can vein mine, which makes it way more userfriendly than just sneaking alone, IMO.
+
+To enchant be sure to have Survival Gamemode.
+
 _________________________________________________
 
 To veinmine Ingame, crouch and mine a block.
-Up to 4 Blocks around the block you just mined, the same Blocks get mined too. Or you can use Hoes to turn a larger Area of Dirt into Farmland. Veinmining won't work if you are holding two tools, one in your mainhand and in your offhand. A safety measure to accurately target the used tools.
+Up to 4 Blocks around the block you just mined, the same Blocks get mined too. Or you can use Hoes to turn a larger Area of Dirt into Farmland. Veinmining won't work if you are holding two veinmine-tools, one in your mainhand and in your offhand. A safety measure to accurately target the used tools.
 
 Not every Block is vein-mineable, but there are pver 400 Blocks that do work. Even some that make not a whole lot of sense, like saplings or flowers?
 
