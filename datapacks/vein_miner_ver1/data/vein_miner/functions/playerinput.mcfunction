@@ -17,9 +17,10 @@ execute if entity @s[scores={vm_shear=1..}] unless entity @s[tag=vm_offhand] at 
 execute if entity @s[scores={vm_diahoe=1..}] unless entity @s[tag=vm_offhand] run function vein_miner:tools/diahoe
 execute if entity @s[scores={vm_ironhoe=1..}] unless entity @s[tag=vm_offhand] run function vein_miner:tools/ironhoe
 
-execute store result score @s vm_calc run data get entity @s foodLevel 1
-title @s[scores={vm_calc=..4}] actionbar {"text":"You're too Hungry to use Vein Miner.","color":"red","bold":true}
-execute if entity @s[scores={vm_calc=5..}] unless entity @s[tag=vm_offhand] run function vein_miner:findblock/holdingtool
+execute if score #vm_debuff vm_calc matches 1 store result score @s vm_calc run data get entity @s foodLevel 1
+execute if score #vm_debuff vm_calc matches 1 run title @s[scores={vm_calc=..4}] actionbar {"text":"You're too Hungry to use Vein Miner.","color":"red","bold":true}
+execute if score #vm_debuff vm_calc matches 1 unless entity @s[tag=vm_offhand] run function vein_miner:findblock/holdingtool
+execute if score #vm_debuff vm_calc matches 0 unless entity @s[tag=vm_offhand] run function vein_miner:findblock/holdingtool
 
 tag @s remove vm_offhand
 scoreboard players set @s vm_activmine 0
