@@ -1,0 +1,9 @@
+execute if entity @s[scores={vm_slot=0}] run replaceitem entity @s hotbar.0 air
+execute if entity @s[scores={vm_slot=1}] run replaceitem entity @s hotbar.1 air
+execute if entity @s[scores={vm_slot=2}] run replaceitem entity @s hotbar.2 air
+execute if entity @s[scores={vm_slot=3}] run replaceitem entity @s hotbar.3 air
+execute if entity @s[scores={vm_slot=4}] run replaceitem entity @s hotbar.4 air
+execute if entity @s[scores={vm_slot=5}] run replaceitem entity @s hotbar.5 air
+execute if entity @s[scores={vm_slot=6}] run replaceitem entity @s hotbar.6 air
+execute if entity @s[scores={vm_slot=7}] run replaceitem entity @s hotbar.7 air
+execute if entity @s[scores={vm_slot=8}] run replaceitem entity @s hotbar.8 air

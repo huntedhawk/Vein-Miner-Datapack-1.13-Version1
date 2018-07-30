@@ -10,6 +10,20 @@ The way the blocks are being mined always takes up a cubic shape. That way it wo
 The durability of the tool is used up the same rate as if you mined each block individually. The Durability Loss can be reduced with Unbreaking enchants on the tools.
 Fortune and Silk Touch Enchants on the Tools used are taken into Account as well when mining Blocks that are affected by those Enchantments.
 
+#Installation Instructions
+
+Option 1 (Manual)
+
+1. Download the zip file from the green button in the top right
+
+2. Extract the files to a folder called vien-miner in your worlds datapacks directory
+
+Option 2 (Github)
+
+1. Install Github desktop
+
+2. clone this repository to your datapacks directory
+
 #Updated 28.07.2017
 
 This Update contains an option to disable hunger debuffs. To disable hunger, type into chat:

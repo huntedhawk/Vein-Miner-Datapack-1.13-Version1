@@ -1,0 +1,25 @@
+execute if block ~ ~ ~ minecraft:bookshelf run scoreboard players set @s vm_material 330
+execute if block ~ ~ ~ minecraft:bricks run scoreboard players set @s vm_material 331
+execute if block ~ ~ ~ minecraft:cobweb run scoreboard players set @s vm_material 332
+execute if block ~ ~ ~ minecraft:crafting_table run scoreboard players set @s vm_material 333
+execute if block ~ ~ ~ minecraft:snow run function vein_miner:blocks/snowlayers
+execute if block ~ ~ ~ minecraft:carved_pumpkin run scoreboard players set @s vm_material 342
+execute if block ~ ~ ~ minecraft:jack_o_lantern run scoreboard players set @s vm_material 343
+execute if block ~ ~ ~ minecraft:brown_mushroom_block run scoreboard players set @s vm_material 344
+execute if block ~ ~ ~ minecraft:red_mushroom_block run scoreboard players set @s vm_material 345
+execute if block ~ ~ ~ minecraft:mushroom_stem run scoreboard players set @s vm_material 346
+execute if block ~ ~ ~ minecraft:note_block run scoreboard players set @s vm_material 347
+execute if block ~ ~ ~ minecraft:redstone_lamp run scoreboard players set @s vm_material 348
+execute if block ~ ~ ~ minecraft:ladder run scoreboard players set @s vm_material 349
+execute if block ~ ~ ~ minecraft:vine run scoreboard players set @s vm_material 350
+execute if block ~ ~ ~ minecraft:iron_bars run scoreboard players set @s vm_material 351
+execute if block ~ ~ ~ minecraft:daylight_detector run scoreboard players set @s vm_material 352
+execute if block ~ ~ ~ minecraft:observer run scoreboard players set @s vm_material 353
+execute if block ~ ~ ~ minecraft:rail run scoreboard players set @s vm_material 354
+execute if block ~ ~ ~ minecraft:detector_rail run scoreboard players set @s vm_material 355
+execute if block ~ ~ ~ minecraft:activator_rail run scoreboard players set @s vm_material 356
+execute if block ~ ~ ~ minecraft:powered_rail run scoreboard players set @s vm_material 357
+execute if block ~ ~ ~ minecraft:slime_block run scoreboard players set @s vm_material 358
+execute if block ~ ~ ~ minecraft:cake run scoreboard players set @s vm_material 359
+execute if block ~ ~ ~ minecraft:tripwire run scoreboard players set @s vm_material 360
+execute if block ~ ~ ~ minecraft:tnt run scoreboard players set @s vm_material 361 

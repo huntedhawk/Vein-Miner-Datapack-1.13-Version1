@@ -1,0 +1,10 @@
+execute if block ~ ~ ~ minecraft:tube_coral run scoreboard players set @s vm_material 398
+execute if block ~ ~ ~ minecraft:brain_coral run scoreboard players set @s vm_material 399
+execute if block ~ ~ ~ minecraft:bubble_coral run scoreboard players set @s vm_material 400
+execute if block ~ ~ ~ minecraft:fire_coral run scoreboard players set @s vm_material 401
+execute if block ~ ~ ~ minecraft:horn_coral run scoreboard players set @s vm_material 402
+execute if block ~ ~ ~ minecraft:tube_coral_fan run scoreboard players set @s vm_material 403
+execute if block ~ ~ ~ minecraft:brain_coral_fan run scoreboard players set @s vm_material 404
+execute if block ~ ~ ~ minecraft:bubble_coral_fan run scoreboard players set @s vm_material 405
+execute if block ~ ~ ~ minecraft:fire_coral_fan run scoreboard players set @s vm_material 406
+execute if block ~ ~ ~ minecraft:horn_coral_fan run scoreboard players set @s vm_material 407

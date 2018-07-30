@@ -1,0 +1,15 @@
+execute if entity @s[scores={vm_material=315}] run function vein_miner:blockstate/fences/oak
+execute if entity @s[scores={vm_material=316}] run function vein_miner:blockstate/fences/spruce
+execute if entity @s[scores={vm_material=317}] run function vein_miner:blockstate/fences/birch
+execute if entity @s[scores={vm_material=318}] run function vein_miner:blockstate/fences/jungle
+execute if entity @s[scores={vm_material=319}] run function vein_miner:blockstate/fences/acacia
+execute if entity @s[scores={vm_material=320}] run function vein_miner:blockstate/fences/dark_oak
+execute if entity @s[scores={vm_material=321}] run function vein_miner:blockstate/fences/nether_brick 
+execute if entity @s[scores={vm_material=322}] run function vein_miner:blockstate/fences/cobblestone_wall
+execute if entity @s[scores={vm_material=323}] run function vein_miner:blockstate/fences/mossy_cobblestone_wall
+execute if entity @s[scores={vm_material=324}] run function vein_miner:blockstate/fencegates/oak
+execute if entity @s[scores={vm_material=325}] run function vein_miner:blockstate/fencegates/spruce
+execute if entity @s[scores={vm_material=326}] run function vein_miner:blockstate/fencegates/birch
+execute if entity @s[scores={vm_material=327}] run function vein_miner:blockstate/fencegates/jungle
+execute if entity @s[scores={vm_material=328}] run function vein_miner:blockstate/fencegates/acacia
+execute if entity @s[scores={vm_material=329}] run function vein_miner:blockstate/fencegates/dark_oak
